@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "expoFirstProject",
-    "slug": "expoFirstProject",
+    "name": "Pomodor",
+    "slug": "Pomodor",
     "platforms": [
       "ios",
       "android",
@@ -23,6 +23,10 @@
     ],
     "ios": {
       "supportsTablet": true
+    },
+    "android": {
+      "package": "com.pomodor.pomodor",
+      "versionCode": 1
     }
   }
 }
